@@ -1,0 +1,11 @@
+evadb==0.3.2
+gpt4all
+unidecode
+numpy
+pandas
+qdrant-client
+sentence-transformers
+faiss-cpu
+google-cloud
+google-cloud-storage
+google-cloud-speech
